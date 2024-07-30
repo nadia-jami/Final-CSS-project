@@ -322,7 +322,7 @@ margin-left: 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     padding: 40px 20px;
     text-align: center;
-    color: rgb(224, 203, 203);
+    color: gray;
     border: 1px solid transparent;
 }
 .services-content .service:hover{
