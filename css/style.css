@@ -316,7 +316,7 @@ margin-left: 10px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-top: 80px;
-    gap: 30px;
+    gap: 31px;
 }
 .services-content .service {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
