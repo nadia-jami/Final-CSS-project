@@ -326,7 +326,7 @@ margin-left: 10px;
     border: 1px solid transparent;
 }
 .services-content .service:hover{
-    border: 1px solid orange;
+    border: 2px solid orange;
 }
 .services-content .service:hover h4{
     color: orange;
